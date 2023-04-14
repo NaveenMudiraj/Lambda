@@ -49,7 +49,7 @@ public class TestScenario1_CHROME {
 		
 		try
         {
-            driver = new RemoteWebDriver(new URL("https://" + "naveen.mudirajg" + ":" + "JO78Ryg4WNJDCcO47Xgt9KwhkIyHPX0kCAraPUGjcoAXRI3HRq" + "@hub.lambdatest.com/wd/hub"), caps);
+            driver = new RemoteWebDriver(new URL("https://" + "naveen.mudirajg" + ":" + "" + "@hub.lambdatest.com/wd/hub"), caps);
         
         
         }
